@@ -1,0 +1,2 @@
+# almir
+lista kanala
