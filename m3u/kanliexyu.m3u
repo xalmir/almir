@@ -22,7 +22,7 @@ http://www.nasatv.eu:80/live?channelId=12&uid=7&deviceUser=dm800&devicePass=dm80
 http://www.nasatv.eu:80/live?channelId=13&uid=7&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,RTL HRVATSKA
 http://www.nasatv.eu:80/live?channelId=14&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1,OBN
+#EXTINF:-1,RTL 2
 http://www.nasatv.eu:80/live?channelId=15&uid=7&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,ARENA SPORT 1
 http://www.nasatv.eu:80/live?channelId=16&uid=7&deviceUser=dm800&devicePass=dm800
